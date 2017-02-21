@@ -3,7 +3,7 @@
 ```
 just for test mutex lock
 
-and bank account code from
+thanks bank.go code from
 
 http://www.alexedwards.net/blog/understanding-mutexes
 
